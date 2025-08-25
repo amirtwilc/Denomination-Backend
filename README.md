@@ -32,12 +32,17 @@ For example: if an amount of 275.00 is provided and also the result from above o
 
 * Note: the supported denomination are included in application.yaml file
 
+## Recommended IDE Setup
+
+[Intellij](https://www.jetbrains.com/idea/download/?section=windows#)
+
 ## Installation
 
 1. Install Java 21 and Maven if not installed.
 2. Run `mvn clean install`
-3. Run DenominationApplication to run this service on localhost:8080
-4. Use the frontend Denomination App to use this service, or call this service directly via Postman
+3. Make sure Lombok plugin is installed. When prompted, enable annotation processing
+4. Run DenominationApplication to run this service on localhost:8080
+5. Use the frontend Denomination App to use this service, or call this service directly via Postman
 
 ## Usage
 
