@@ -35,8 +35,9 @@ For example: if an amount of 275.00 is provided and also the result from above o
 ## Installation
 
 1. Install Java 21 and Maven if not installed.
-2. Run DenominationApplication to run this service on localhost:8080
-3. Use the frontend Denomination App to use this service, or call this service directly via Postman
+2. Run `mvn clean install`
+3. Run DenominationApplication to run this service on localhost:8080
+4. Use the frontend Denomination App to use this service, or call this service directly via Postman
 
 ## Usage
 
