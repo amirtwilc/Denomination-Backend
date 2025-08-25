@@ -13,7 +13,7 @@ public class MathUtil {
      * @param dividingValue the value to check how many times fits inside number
      * @return number of times dividingValue fits inside number
      */
-    public int getDividingTimes(BigDecimal number, BigDecimal dividingValue) {
+    public static int getDividingTimes(BigDecimal number, BigDecimal dividingValue) {
         return (number.divideAndRemainder(dividingValue))[0].intValue();
     }
 }
