@@ -34,7 +34,8 @@ For example: if an amount of 275.00 is provided and also the result from above o
 
 ## Recommended IDE Setup
 
-[Intellij](https://www.jetbrains.com/idea/download/?section=windows#)
+[Intellij](https://www.jetbrains.com/idea/download/?section=windows#) <br>
+[Postman](https://www.postman.com/downloads/)
 
 ## Installation
 
